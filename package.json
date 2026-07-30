@@ -1,0 +1,12 @@
+{
+  "name": "wa-bridge",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "express": "^4.19.2",
+    "qrcode": "^1.5.3",
+    "pino": "^8.19.0"
+  }
+}
